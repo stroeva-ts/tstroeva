@@ -15,6 +15,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL_Playground-122529?style=for-the-badge&logo=graphql&logoColor=d4088d)
 ![SOAPUI](https://img.shields.io/badge/SOAPUI-122529?style=for-the-badge&logo=soapui&logoColor=d4088d)
 ![GitLab](https://img.shields.io/badge/GitLab_Issues-122529?style=for-the-badge&logo=gitlab)
+![GitHub](https://img.shields.io/badge/GitHub-122529?style=for-the-badge&logo=github)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-122529?style=for-the-badge&logo=google-sheets)
 ![MySQL](https://img.shields.io/badge/MySQL-122529?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-122529?style=for-the-badge&logo=postgresql)
@@ -26,7 +27,7 @@
 - [Чек-листы](https://drive.google.com/drive/folders/14b2X4jEWXDPU05pIo4qfCCuGSW06YXAb?usp=sharing)
 - [Тест-кейсы](https://drive.google.com/drive/folders/14n5l3zP3LVgxjlpgjNejTrGPRU0khU9L?usp=drive_link)
 - [Баг-репорты](https://gitlab.com/my_project2370827/My_Project/-/issues)
-- [Postman коллекция](https://gitlab.com/)
+- [Postman коллекция](https://github.com/stroeva-ts/Postman_collection)
 - [SQL-запросы](https://github.com/stroeva-ts/SQL-queries)
 
 ## Автоматизация

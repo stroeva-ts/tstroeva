@@ -42,4 +42,4 @@
 - [API](https://github.com/stroeva-ts/PW-project/tree/master/Tests/api)
 
 ## Сертификаты
-Школа SmartUp - [удостоверение о переквалификации](/assets/сертификат.png)
+Школа SmartUp - [удостоверение о повышении квалификации](https://drive.google.com/file/d/16K2mrYcbBCIvG4f0F9fnlD18TtVM7Gfc/view?usp=sharing)
